@@ -1,10 +1,10 @@
 # Violent1.0
 Vioent1.0 is a powerful UNDETECTED remote acces tool whit a lot features(troll features are included too).
 Violent1.0 uses a discord bot to communicate with the attacker.
-I will work on a new better version thats why i decided to release this tool to the public.
-Do what you wnat to do with this.
+I will work on a new better version thats why i decided to release this tool to the public, but i am not going to release the loader.
 
 i am not responsible for any damages. Use at your own risk.
+!!!for educational purposes only!!!
 
 ![123](https://user-images.githubusercontent.com/102999825/167707389-7a3cc39d-53db-4f0b-95ab-3ad9097397df.gif)
 
