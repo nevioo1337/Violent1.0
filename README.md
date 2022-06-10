@@ -6,8 +6,6 @@ And before someone asks, I am not going to release the loader.
 i am not responsible for any damages. Use at your own risk.
 !!!for educational purposes only!!!
 
-![123](https://user-images.githubusercontent.com/102999825/167707389-7a3cc39d-53db-4f0b-95ab-3ad9097397df.gif)
-
 ![Screenshot 2022-05-10 220929](https://user-images.githubusercontent.com/102999825/167713592-a6355a3d-59a9-4713-a635-c368b0529ee9.png)
 
 ```
