@@ -11,11 +11,11 @@ i am not responsible for any damages. Use at your own risk.
 ```
 COMMANDS: 
 [GENERAL] 
-.get                                    lists online clients 
-.target {id}                            selects target 
-.drop {id}                              unselects target 
-.targetall                              selects every client 
-.dropall                                unselects every client 
+.get                                     lists online clients 
+.target {id}                             selects target 
+.drop {id}                               unselects target 
+.targetall                               selects every client 
+.dropall                                 unselects every client 
 				
 [SPECIFIC] 
 .getinfo                                 gets info about the slected target 
