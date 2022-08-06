@@ -11,33 +11,33 @@ i am not responsible for any damages. Use at your own risk.
 ```
 COMMANDS: 
 [GENERAL] 
-.get:                                    lists online clients 
-.target {id}:                            selects target 
-.drop {id}:                              unselects target 
-.targetall:                              selects every client 
-.dropall:                                unselects every client 
+.get                                    lists online clients 
+.target {id}                            selects target 
+.drop {id}                              unselects target 
+.targetall                              selects every client 
+.dropall                                unselects every client 
 				
 [SPECIFIC] 
-.getinfo:                                gets info about the slected target 
-.screenshot:                             makes screenshot 
-.speak {text}:                           the target hears a voice on his pc 
-.processes:                              lists processes 
-.terminate {name}:                       kills process 
-.rotatescreen {screen} {orientations}:   rotates screen (DEGREES_CW_0, DEGREES_CW_90, DEGREES_CW_180,  DEGREES_CW_270) 
-.unrotatescreen:                         unrotates all screens 
-.volume {volume}:                        sets audio volume 
-.screencount:                            counts monitors 
-.download {link} {path}:                 download file 
-.execute {path}:               		 executes program 
-.hidefile {path}:                        hides file 
-.showfile {path}:                        shows file 
-.smallupload {path}:                     only usefull for sth like a txt file (8mb) 
-.bigupload {path}:                       big boy upload(20gb) 
-.tree {typeFilter} {wordFilter} {disk}:  gets evry path from drive 
-.sendtree:                               stops tree and sends file 
-.getdrives:                              lists all drives 
-.deletefile {path}:                      deletes file 
-.filesize {path}:                        gets file size in bytes 
+.getinfo                                 gets info about the slected target 
+.screenshot                              makes screenshot 
+.speak {text}                            the target hears a voice on his pc 
+.processes                               lists processes 
+.terminate {name}                        kills process 
+.rotatescreen {screen} {orientations}    rotates screen (DEGREES_CW_0, DEGREES_CW_90, DEGREES_CW_180,  DEGREES_CW_270) 
+.unrotatescreen                          unrotates all screens 
+.volume {volume}                         sets audio volume 
+.screencount                             counts monitors 
+.download {link} {path}                  download file 
+.execute {path}               		 executes program 
+.hidefile {path}                         hides file 
+.showfile {path}                         shows file 
+.smallupload {path}                      only usefull for sth like a txt file (8mb) 
+.bigupload {path}                        big boy upload(20gb) 
+.tree {typeFilter} {wordFilter} {disk}   gets evry path from drive 
+.sendtree                                stops tree and sends file 
+.getdrives                               lists all drives 
+.deletefile {path}                       deletes file 
+.filesize {path}                         gets file size in bytes 
 .panic                                   stops virus but it will run again after restart 
 .spam {amount}                           spams cmd windows 
 .wallpaper {link} {type}                 changes the wallpaper 
